@@ -1,0 +1,14 @@
+ol {
+  margin-left: -40px;
+  margin-top: -20px;
+  list-style-position: inside;
+}
+body{
+    text-align: center;
+}
+p{
+    color:red;
+}
+#id-selector-demo{
+    color:green;
+}
